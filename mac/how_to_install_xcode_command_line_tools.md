@@ -9,3 +9,5 @@
 4. Select confirm by clicking Install.
 5. Wait for the Xcode Command Line Tools package to install. It is around 130 MB and usually installs fairly quickly, although it depends on your connection.
 6. Once everything is installed, the installer goes away and you should be able to any of the new commands that you’ve now got access to.
+
+[back](../README.md)
